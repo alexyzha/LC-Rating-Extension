@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "LC ELO Ratings",
+    "version": "1.0",
+    "description": "LC problem ELO in tab",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://leetcode.com/problems/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    }
+  }
+  
