@@ -3,7 +3,7 @@ Uses data from https://github.com/zerotrac/leetcode_problem_rating to display EL
 
 # Installation Instructions (Opera, should be similar for Chrome):
 
-### 1. Go to [extensions](opera://extensions).
+### 1. Go to extensions (opera://extensions).
 
 ### 2. Make sure you are in "developer mode":
 
