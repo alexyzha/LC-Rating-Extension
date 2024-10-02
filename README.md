@@ -1,6 +1,16 @@
 # LC-Rating-Extension
 Uses data from https://github.com/zerotrac/leetcode_problem_rating to display ELO ratings for LeetCode problems. Works on the US version of the site, built for Chrome/Opera (Chromium).
 
+# Visuals
+
+![image](tutorial/green.png)
+
+![image](tutorial/yellow.png)
+
+![image](tutorial/red.png)
+
+![image](tutorial/pink.png)
+
 # Installation Instructions (Opera, should be similar for Chrome):
 
 ## 1. Go to extensions (opera://extensions).
