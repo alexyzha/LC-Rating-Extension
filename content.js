@@ -1983,7 +1983,7 @@
             // color by rating or NA
             if(rating === "NA") {
                 element.style.color = 'pink';
-            } else if(rating > 2200) {
+            } else if(rating > 2230) {
                 element.style.color = 'red';
             } else if(rating > 1750) {
                 element.style.color = 'yellow';
