@@ -1985,7 +1985,7 @@
                 element.style.color = 'pink';
             } else if(rating > 2200) {
                 element.style.color = 'red';
-            } else if(rating > 1700) {
+            } else if(rating > 1750) {
                 element.style.color = 'yellow';
             } else {
                 element.style.color = 'green';
